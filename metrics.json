@@ -1,0 +1,17 @@
+{
+  "LDA": {
+    "best_shrinkage": 0.3,
+    "cv_accuracy_mean": 0.9569489191794023,
+    "cv_accuracy_std": 0.007951220590776917,
+    "test_accuracy": 0.9511111111111111,
+    "test_f1_macro": 0.9510754867784825
+  },
+  "QDA": {
+    "best_reg_param": 0.7,
+    "cv_accuracy_mean": 0.9918380834365964,
+    "test_accuracy": 0.9844444444444445,
+    "test_f1_macro": 0.9843634414280352
+  },
+  "n_train": 1347,
+  "n_test": 450
+}
